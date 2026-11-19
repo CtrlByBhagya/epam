@@ -1,0 +1,36 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Java
+*.class
+*.jar
+target/
+out/
+
+# Node.js
+node_modules/
+dist/
+
+# Build files
+build/
+
+# IDE settings
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
